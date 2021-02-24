@@ -1,0 +1,3 @@
+if(!play) {
+	play = true;
+}
