@@ -1,5 +1,5 @@
 if(y > sprite_height / 2) {
-	y -= 5;
+	y -= 7;
 }
 else {
 	y = sprite_height / 2;
